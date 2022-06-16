@@ -17,7 +17,7 @@ const expense = (
     <>
       <div className="inc-exp-container">
         <div>
-          <h4>Pocket Money</h4>
+          <h4>Amount</h4>
           <p className="money plus">+₹{income}</p>
         </div>
         <div>
